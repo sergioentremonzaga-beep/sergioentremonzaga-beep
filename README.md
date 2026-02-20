@@ -2,7 +2,7 @@
 ### 👋 Hola, mi nombre es Sergio Entremonzaga 
 ---
 ## Sobre mí
-Soy estudiante de desarrollo de aplicaiones web en el instituto [Ies Luis Vives](https://www.iesluisvives.es)
+Soy estudiante de desarrollo de aplicaciones web en el instituto [Ies Luis Vives](https://www.iesluisvives.es)
 
 Aparte de mi interés por el desarrollo de aplicaciones, también disfruto gastando mi tiempo libre:
 - Leyendo 📖
@@ -11,5 +11,5 @@ Aparte de mi interés por el desarrollo de aplicaciones, también disfruto gasta
 - Escuchando música 🎵
 - Compartiendo buenos momentos con los amigos 🍻
 
-En esta cuenta iré subiendo mis proyectos para el grado y vocacionales ⌨️
-No dudes en darme consejos para mejora 💪
+En esta cuenta iré subiendo mis proyectos para el grado y vocacionales ⌨️ <br>
+No dudes en darme consejos para mejorar 💪

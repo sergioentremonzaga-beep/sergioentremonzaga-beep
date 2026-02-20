@@ -4,7 +4,7 @@
 ## Sobre mí
 Soy estudiante de desarrollo de aplicaciones web en el instituto [Ies Luis Vives](https://www.iesluisvives.es)
 
-Aparte de mi interés por el desarrollo de aplicaciones, también disfruto gastando mi tiempo libre:
+Aparte de mi interés por el desarrollo de aplicaciones, también disfruto **gastando** mi tiempo libre:
 - Leyendo 📖
 - Jugando videojuegos 🎮
 - Viendo cine 🚬

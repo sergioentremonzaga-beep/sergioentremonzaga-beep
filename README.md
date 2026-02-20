@@ -9,7 +9,7 @@ Aparte de mi interés por el desarrollo de aplicaciones, también disfruto **gas
 - Jugando videojuegos 🎮
 - Viendo cine 🚬
 - Escuchando música 🎵
-- Compartiendo buenos momentos con los amigos 🍻
+- Compartiendolo con los amigos 🍻
 
 En esta cuenta iré subiendo mis proyectos para el grado y vocacionales ⌨️ <br>
 No dudes en darme consejos para mejorar 💪

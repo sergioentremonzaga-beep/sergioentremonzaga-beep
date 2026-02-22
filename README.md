@@ -12,7 +12,9 @@ Aparte de mi interés por el desarrollo de aplicaciones, también disfruto **gas
 
 En esta cuenta iré subiendo mis proyectos para el grado y vocacionales ⌨️ <br>
 No dudes en darme consejos para mejorar 💪
+
 ---
+
 ### Estoy aprendiendo:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
